@@ -6,7 +6,7 @@
 
 declare(strict_types=1);
 
-namespace Magefan\MsiDisabler\Console\Command;
+namespace Magefan\MsiDisabler\Console\Command;  
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
